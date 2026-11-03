@@ -28,7 +28,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://backend-portfolio-rho-ten.vercel.app/
 )
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vaibhav-v-705280320)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/MLwithvaibhav/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/systemswithvaibhav/)
 
 </div>
 
