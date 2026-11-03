@@ -28,7 +28,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://backend-portfolio-rho-ten.vercel.app/
 )
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vaibhav-v-705280320)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/mlwithvaibhav/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/MLwithvaibhav/)
 
 </div>
 
@@ -190,7 +190,7 @@ $ ls ./projects
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/Heatlhcare-AI)
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/systemswithvaibhav/Heatlhcare-AI)
 
 
 ### `02` — VC-SCOUT
@@ -212,7 +212,7 @@ $ ls ./projects
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/VC-Scout)
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/systemswithvaibhav/VC-Scout)
 
 
 
@@ -236,7 +236,7 @@ $ ls ./projects
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/WEB-SERVER-JAVA-)
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/systemswithvaibhav/WEB-SERVER-JAVA-)
 
 
 
@@ -279,7 +279,7 @@ $ ./github
 <td width="50%" align="center">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MLwithvaibhav&theme=github_dark" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=systemswithvaibhav&theme=github_dark" 
   width="100%" 
 />
 
@@ -288,7 +288,7 @@ $ ./github
 <td width="50%" align="center">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MLwithvaibhav&theme=github_dark" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=systemswithvaibhav&theme=github_dark" 
   width="100%" 
 />
 
@@ -298,7 +298,7 @@ $ ./github
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MLwithvaibhav&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com?user=systemswithvaibhav&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
@@ -320,7 +320,7 @@ $ ./github
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/systemswithvaibhav)
 <br/><br/>
 
 `Thanks for visiting my profile.`
